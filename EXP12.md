@@ -1,7 +1,7 @@
 # Ex.No: 12 Pytest Python program for Addition .
 
 ### DATE: 22/10/2024                                                                          
-### REGISTER NUMBER :  212222040142
+### REGISTER NUMBER :  212222040083
 ### AIM: 
 To write a python program for addition of two numbers and test the test cases using Pytest.
 
