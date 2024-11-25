@@ -1,7 +1,8 @@
-# Ex.No: 7 Sorting.
+# Ex.No: 7 Sorting
 
 ### DATE: 05/11/2024                                                                          
-### REGISTER NUMBER :  212222040083
+### REGISTER NUMBER :  212222040146
+
 ### AIM: 
 Write a python program for sorting and inspect for failures.
 
